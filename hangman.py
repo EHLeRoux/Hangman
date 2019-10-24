@@ -1,3 +1,4 @@
+# Author: Eduard Le Roux
 import random
 lives = 8
 game = True
